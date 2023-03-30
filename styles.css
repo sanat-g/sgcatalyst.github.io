@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Sora:wght@500&display=swap');
+
+html {
+    background-color: #090c0d;
+}
+
+.main p {
+    color: white;
+    font-family: 'Lora', serif;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    line-height: 2;
+
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+.nav h3 {
+    color: grey;
+    font-family: 'Lora', serif;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
+
+.why p {
+    color: white;
+    font-family: 'Lora', serif;
+    font-size: 1.05rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    line-height: 2;
+}
+
+.about p {
+    color: white;
+    font-family: 'Lora', serif;
+    font-size: 1.05rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    line-height: 2;
+
+}
+
+.extracurricular p {
+    color: white;
+    font-family: 'Lora', serif;
+    font-size: 1rem;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    line-height: 2;
+
+}
